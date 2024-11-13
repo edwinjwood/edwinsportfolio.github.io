@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "the-design-system", "the-design-system", "{B1F46841-E3E1-4434-B767-E9EB3185381E}"
+	ProjectSection(SolutionItems) = preProject
+		preview.html = preview.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A991ED0D-4EDA-49AC-A5AB-F45F3D342883}"
+	ProjectSection(SolutionItems) = preProject
+		crew-commander.html = crew-commander.html
+		crew-engineer.html = crew-engineer.html
+		crew-pilot.html = crew-pilot.html
+		crew-specialist.html = crew-specialist.html
+		crew.html = crew.html
+		data.json = data.json
+		destination-europa.html = destination-europa.html
+		destination-mars.html = destination-mars.html
+		destination-moon.html = destination-moon.html
+		destination-titan.html = destination-titan.html
+		destination.html = destination.html
+		index.css = index.css
+		index.html = index.html
+		index.js = index.js
+		technology-capsule.html = technology-capsule.html
+		technology-spaceport.html = technology-spaceport.html
+		technology-vehicle.html = technology-vehicle.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{3D99E209-3ADF-4135-94FD-320767ED9D50}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Documents\Edwin J. Wood - Resume.pdf = ..\..\..\OneDrive\Documents\Edwin J. Wood - Resume.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685E3018-BB66-4DE3-A91F-2CAC6E9D2C8F}
+	EndGlobalSection
+EndGlobal
